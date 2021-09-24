@@ -7,7 +7,7 @@ This research was ment for hypothesis testing of claims about Blue Cars in Autol
 # User Requirements
 You need Python and a jupyter notebook.
 # Set up Installations
-clone this project from:https://github.com/CHRISTINEMUTHEE/FINANCE-DATASET.
+clone this project from:https://github.com/CHRISTINEMUTHEE/Autolib_Hypothesis-testing.git
 # Technologies used
 Python,Matploptly,Seaborn,Google collaboratory,Pandas and Numpy Libraries
 # Support and contact details
