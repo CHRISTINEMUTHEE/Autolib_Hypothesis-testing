@@ -13,5 +13,5 @@ Python,Matploptly,Seaborn,Google collaboratory,Pandas and Numpy Libraries
 # Support and contact details
 Incase of any comments,concerns and inputs please reach me at:
 xtinemuthee@gmail.com 
-The Hypothesis Testing report can be found on this link
+# The Hypothesis Testing report
 https://docs.google.com/document/d/1_mYrpVV7g63oQ-3Tv11s06pYRzi93c-BCDiX2pDVw-0/edit?usp=sharing
